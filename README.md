@@ -1,2 +1,2 @@
 # version-control-exercises
-pwd
+PWD
